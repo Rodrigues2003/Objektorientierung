@@ -36,7 +36,6 @@ public class Main {
         System.out.println(Limeade);
 
         Sneaker Smoke = new Sneaker();
-        Smoke = new Sneaker();
         Limeade.Price= 170;
         Limeade.Style= "555088-126";
         Limeade.Name= "Jordan 1 Retro High Light Smoke Grey";
